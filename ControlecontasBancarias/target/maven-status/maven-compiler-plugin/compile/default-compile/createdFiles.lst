@@ -1,0 +1,9 @@
+Tools\Utils.class
+Tools\Mascaras.class
+Tools\Validacoes$ValidaCNPJ.class
+Tools\Validacoes.class
+Enums\FillSide.class
+Enums\TipoOperacao.class
+senai\br\App.class
+Tools\ExpressoesRegulares.class
+package-info.class
